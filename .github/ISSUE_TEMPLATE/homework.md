@@ -3,7 +3,7 @@ name: Homework
 about: 回家作業有問題請點我（標題範例：[Homework 1] 完全平方數）
 title: "[Homework #] <problem title>"
 labels: homework
-assignees: alexypdu, hyusterr, Kevinweisl, sc090410
+assignees: ''
 
 ---
 

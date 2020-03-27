@@ -3,7 +3,7 @@ name: Weekly Quiz
 about: 隨堂練習有問題請點我（標題範例：[Week 2] 密碼強度）
 title: "[Week #] <problem title>"
 labels: weekly quiz
-assignees: alexypdu, hyusterr, Kevinweisl, sc090410
+assignees: ''
 
 ---
 
